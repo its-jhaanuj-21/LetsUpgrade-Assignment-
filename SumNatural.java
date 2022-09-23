@@ -1,3 +1,4 @@
+// Lets Upgrade assignment to print sum of all natural numbers from 1 to 50.
 class SumNatural {
     public static void main(String[] args) {
         int i, sum = 0;
